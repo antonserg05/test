@@ -1,5 +1,5 @@
 123
-
+line for conflict (but different)
 456
 789.
 one more line
